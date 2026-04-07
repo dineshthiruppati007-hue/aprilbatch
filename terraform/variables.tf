@@ -11,8 +11,3 @@ variable "instance_type" {
   }
 }
 
-variable "state_file" {
-  description = "The name of the Terraform state file in the S3 bucket."
-  type        = string
-  default     = "terraform.tfstate"
-}

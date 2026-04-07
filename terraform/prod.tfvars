@@ -3,4 +3,3 @@ instance_type = {
   "web-server-2"    = "t2.micro"
 }
 
-state_file = "prodterraform.tfstate"
